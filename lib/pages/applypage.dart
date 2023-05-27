@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:job_seeker_/components/custom_button.dart';
 import 'package:job_seeker_/components/drop_down.dart';
 import 'package:job_seeker_/components/file_upload.dart';
-import 'package:job_seeker_/profile.dart';
+import 'package:job_seeker_/pages/profile.dart';
 
 List<String> allCountries = [
   'Afghanistan',

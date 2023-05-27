@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:job_seeker_/components/top_title.dart';
-import 'package:job_seeker_/editprofile.dart';
-import 'package:job_seeker_/home.dart';
+import 'package:job_seeker_/pages/editprofile.dart';
+import 'package:job_seeker_/pages/home.dart';
 
 class ProfilePage extends StatelessWidget {
   const ProfilePage({super.key});

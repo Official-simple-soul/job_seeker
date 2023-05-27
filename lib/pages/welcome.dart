@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
-import 'components/or_login_with.dart';
+import '../components/or_login_with.dart';
 import 'home.dart';
 import 'signup.dart';
-import 'components/welcome_info.dart';
-import 'components/inputs.dart';
-import 'components/custom_button.dart';
+import '../components/welcome_info.dart';
+import '../components/inputs.dart';
+import '../components/custom_button.dart';
 
 class Welcome extends StatelessWidget {
   const Welcome({super.key});

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'components/custom_button.dart';
+import '../components/custom_button.dart';
 import 'welcome.dart';
 
 class FirstScreen extends StatelessWidget {

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:job_seeker_/applypage.dart';
+import 'package:job_seeker_/pages/applypage.dart';
 import 'package:job_seeker_/components/custom_button.dart';
 import 'package:job_seeker_/components/slider_card.dart';
 

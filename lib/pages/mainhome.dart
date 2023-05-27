@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:job_seeker_/components/filter_slider.dart';
-import 'components/recent_post.dart';
-import 'components/inputs.dart';
-import 'components/popular_jobs.dart';
+import '../components/recent_post.dart';
+import '../components/inputs.dart';
+import '../components/popular_jobs.dart';
 
 class MainHome extends StatelessWidget {
   const MainHome({super.key});

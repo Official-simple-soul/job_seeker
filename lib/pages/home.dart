@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:job_seeker_/mainhome.dart';
+import 'package:job_seeker_/components/application_card.dart';
+import 'package:job_seeker_/pages/application.dart';
+import 'package:job_seeker_/pages/mainhome.dart';
 import 'profile.dart';
 
 class MyHomePage extends StatefulWidget {
@@ -22,12 +24,7 @@ class _MyHomePageState extends State<MyHomePage> {
 
   final List<Widget> _pages = [
     MainHome(),
-    Center(
-      child: Text(
-        'Messages',
-        style: TextStyle(fontSize: 20),
-      ),
-    ),
+    Applications(),
     ProfilePage(),
     Center(
       child: Text(

@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'components/custom_button.dart';
-import 'components/inputs.dart';
-import 'components/or_login_with.dart';
-import 'components/welcome_info.dart';
+import '../components/custom_button.dart';
+import '../components/inputs.dart';
+import '../components/or_login_with.dart';
+import '../components/welcome_info.dart';
 import 'home.dart';
 import 'welcome.dart';
 
